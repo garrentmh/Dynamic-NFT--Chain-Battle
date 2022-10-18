@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+This is my first creation for Dynamic NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is part of the tutorial from Alchemy, which includes challenge in modifying codes in Solidity to make it workable. 
 
-Try running some of the following tasks:
+Imagine having a Level 0 warrior NFT avatar, using blockchain to train it, the same avatar becomes Level 1 with increased strength, speed, and HP. 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+As I progress more, there will be more dynamic and interesting projects soon as I'm still consider myself new in the blockchain and development field. 
